@@ -94,8 +94,7 @@ function setup() {
 function draw() {
 
   //To assign brown background color
-  background(bg); 
-  //background(255);
+background(255);
 
   Engine.update(engine);
   
