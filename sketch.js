@@ -19,7 +19,7 @@ function preload()
 {
   bg=color("black");
   txtcolor=color("black");
-  fetchtime();
+  
 }
 //Setup function
 function setup() {
